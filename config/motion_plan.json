@@ -1,0 +1,29 @@
+{
+  "task": "L字巡回",
+  "actions": [
+    {
+      "action": "forward",
+      "duration": 4.0
+    },
+    {
+      "action": "stop",
+      "duration": 1.0
+    },
+    {
+      "action": "left",
+      "duration": 3.0
+    },
+    {
+      "action": "stop",
+      "duration": 1.0
+    },
+    {
+      "action": "forward",
+      "duration": 4.0
+    },
+    {
+      "action": "stop",
+      "duration": 1.0
+    }
+  ]
+}
